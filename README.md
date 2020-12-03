@@ -1,6 +1,10 @@
 # Force-open-Bitalino
 Use Bitalino sensors without core
 
+Work in progress:
+https://docs.google.com/document/d/1Usi1TBp8M7i_SbBNXfiV504ReDuqqI7t5MavCj0oqNg/edit?usp=sharing
+
+
 https://bitalino.com/products/plugged-kit-bt
 
 Ad8232 *2 Single-Lead, Heart Rate Monitor Front End
